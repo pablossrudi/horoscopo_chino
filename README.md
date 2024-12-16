@@ -37,6 +37,7 @@
 ```
 ### MySQL
 Se utilizó una base de datos mysql, así que se deben utilizar las mismas tablas que se encuentran en horoscopodb.sql, en la carpeta resources.
+
 Además, en horoscopodb.sql también hay inserts de prueba.
 ### .env
 En la carpeta resources se debe crear un archivo .env en el cual se encuentran las variables de la base de datos.
