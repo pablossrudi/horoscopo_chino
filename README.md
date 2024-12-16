@@ -39,7 +39,7 @@
 Se utilizó una base de datos mysql, así que se debe utilizar las mismas tablas que se encuentra en horoscopodb.sql, en la carpeta resources.
 Ademas, en horoscopodb.sql también hay inserts de prueba.
 ### .env
-En la carpeta resources se debe crear un archivo .env en el cual se encuentran las variables de la base de datos,
+En la carpeta resources se debe crear un archivo .env en el cual se encuentran las variables de la base de datos.
 ```
 DRIVER_DB=driver de la base de datos usada (en este caso el de MySQL: com.mysql.cj.jdbc.Driver)
 URL_DB=url de conexión a la base de datos (ejemplo: jdbc:mysql://localhost:3306/horoscopodb)
