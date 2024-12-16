@@ -1,5 +1,5 @@
 # Horóscopo Chino
-##Este proyecto se creo con Java EE, utilizando servlet, jsp y jdbc
+## Este proyecto se creo con Java EE, utilizando servlet, jsp y jdbc
 ### Estructura de Carpetas
 ```
 ├───.idea
