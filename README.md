@@ -1,7 +1,6 @@
 # Horóscopo Chino
-Este proyecto se creo con Java EE, utilizando servlet, jsp y jdbc
-
-## Estructura de Carpetas
+##Este proyecto se creo con Java EE, utilizando servlet, jsp y jdbc
+### Estructura de Carpetas
 ```
 ├───.idea
 ├───.mvn
@@ -36,7 +35,6 @@ Este proyecto se creo con Java EE, utilizando servlet, jsp y jdbc
 │       ├───java
 │       └───resources
 ```
-## Instrucciones
 ### MySQL
 Se utilizo una base de datos mysql, así que se debe utilizar las mismas tablas que se encuentra en horoscopodb.sql, en la carpeta resources.
 Ademas, en horoscopodb.sql también hay inserts de prueba.
