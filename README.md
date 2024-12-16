@@ -1,6 +1,6 @@
 # Horóscopo Chino
-## Este proyecto se creo con Java EE, utilizando servlet, jsp y jdbc
-### Estructura de Carpetas
+## Este proyecto se creó con Java EE, utilizando servlet, jsp y jdbc
+### Estructura de carpetas
 ```
 ├───.idea
 ├───.mvn
@@ -36,8 +36,8 @@
 │       └───resources
 ```
 ### MySQL
-Se utilizó una base de datos mysql, así que se debe utilizar las mismas tablas que se encuentra en horoscopodb.sql, en la carpeta resources.
-Ademas, en horoscopodb.sql también hay inserts de prueba.
+Se utilizó una base de datos mysql, así que se deben utilizar las mismas tablas que se encuentran en horoscopodb.sql, en la carpeta resources.
+Además, en horoscopodb.sql también hay inserts de prueba.
 ### .env
 En la carpeta resources se debe crear un archivo .env en el cual se encuentran las variables de la base de datos.
 ```
